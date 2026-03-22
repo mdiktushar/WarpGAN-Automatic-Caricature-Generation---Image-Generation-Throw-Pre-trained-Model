@@ -1,0 +1,2 @@
+# WarpGAN-Automatic-Caricature-Generation---Image-Generation-Throw-Pre-trained-Model
+WarpGAN is a deep learning model that transforms real face images into caricature-style outputs. It combines texture stylization with geometric warping to exaggerate facial features, producing expressive cartoon-like results. The model can generate multiple variations from a single input using different style samples.
